@@ -57,3 +57,11 @@
 Após o 11 de Setembro, Rizwan e Mandira começam a enfrentar uma série de dificuldades o que faz com que eles se separem. Rizwan então começa uma longa jornada através dos Estados Unidos para conseguir Mandira de volta.
 Na sua jornada, ele inspira optimismo e alegria no coração das pessoas que encontra pela disseminação de mensagens por onde quer que passe.</info>
 </item>
+
+<item>
+<title>[COLOR silver][B] GILBERT GRAPE - APRENDIZ DE SONHADOR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5275ebfa43550e8341ac2a41b0a90266e66ea704</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/tjJFsCsiVO0cE1okiuLn4Ip9WJL.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> O que está comendo Gibert uva é um filme muito bem filmadas de ternura, carinho e auto-consciência que está situado entre o fictício classe trabalhadora a uma rua da cidade Endora. Centrado em torno da família Ellen Uva e Amy e seus dois irmãos Arnie e Gilbert, que, junto com sua mãe viúva com obesidade mórbida Bonnie uva estão lutando para sobreviver e convivem com a ausência de uma figura paterna, o trabalho de baixo salário e dezessete anos de idade condição mental grave de Arnie. É neste caso um lado estranho e extremamente que o infeliz Gilbert tem que constantemente, enquanto trabalhava para a cidade está morrendo lentamente loja de conveniência, cuidar de seu irmão mais novo Arnie. A vida de Gilbert, o seu futuro, é frustrada ele sabe disso, mas é neste anjo da guarda que o seu amor e união para Arnie não pode, e não, ser deixar ir. Isto é, até o espírito livre de Becky chega na cidade, e com a avó está encalhado para a semana enquanto espera por peças para seu veículo. Esta realização desata novo.</info>
+</item>
