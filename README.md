@@ -31,3 +31,11 @@
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Autismo, ou Transtorno do Espectro Autista (TEA), é um transtorno neurobiológico que afeta a comunicação social, a interação social, a imaginação, o comportamento e os interesses. O autismo é chamado de "espectro" porque o impacto do transtorno varia muito de pessoa para pessoa. Algumas pessoas com autismo apresentam poucos sintomas, enquanto outras podem ter dificuldades significativas em várias áreas da vida.</info>
 </item>
+
+<item>
+<title>[COLOR silver][B] RAIN MAN 1988  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:690baeb0abc5ab2ccea82c363759ea3855ba701b</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/fwVbH7LKfEieydL0xfh9rzTatU0.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Um jovem yuppie (Tom Cruise) fica sabendo que seu pai faleceu. Eles nunca se deram bem e não se viam há vários anos, mas ele vai ao enterro e quando vai cuidar do testamento fica sabendo que herdou um Buick 1949 e as roseiras premiadas do seu pai, sendo que um “beneficiário” tinha herdado três milhões de dólares. Fica curioso em saber quem herdou aquela fortuna e descobre que foi seu irmão (Dustin Hoffman), que ele desconhecia a existência. O irmão dele é autista, mas pode calcular problemas matemáticos complicados com grande velocidade e precisão. O yuppie seqüestra seu irmão autista da instituição onde ele está internado, pois planeja levá-lo para Los Angeles e exigir metade do dinheiro, nem que para isto tenha que ir aos tribunais. É durante uma viagem cheia de pequenos imprevistos que os dois se compreenderão mutuamente e entenderão o significado de serem irmãos.</info>
+</item>
