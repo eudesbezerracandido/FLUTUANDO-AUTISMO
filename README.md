@@ -1,11 +1,12 @@
 # FLUTUANDO-AUTISMO
 
+
 <item>
-<title>[COLOR silver][B] FLUTUANDO  FLOAT -  BASEADO NO AUTISMO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>https://archive.org/download/FRLUTUAR/FRLUTUAR.mp4</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/uo0XfFnovYeQ27YyW6ayK5SM6w5.jpg</thumbnail>
+<title>[COLOR silver][B] PARAISO NO ACEANO - BASEADO NO TEA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<utube>vZqOgRUz8Ko&ab</utube>
+<thumbnail>https://www.themoviedb.org/t/p/original/rtfyUYdhZanZO9SFd33rh3dO2pJ.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info> Um pai descobre que seu filho é Autista, o que o diferencia de outras crianças. Para manter os dois a salvo do julgamento do mundo, papai o esconde. Porém, quando a capacidade de seu filho se tornar pública, papai deve decidir se quer fugir ou se esconder ou aceitar seu filho como ele é. Aceitar um diagnóstico de autismo é essencial. Ainda mais se estivermos falando de uma criança, a aceitação por parte da família, principalmente dos pais, faz toda a diferença. A animação, com sete minutos de duração, conta a história de um garoto que tem o poder de flutuar (o que dá nome ao curta). Com a desaprovação da vizinhança e das pessoas ao redor para essa “diferença” da criança, o pai opta por isolar-se e manter o menino em casa. A tentativa é de protegê-lo. Qualquer semelhança com histórias de famílias afetadas pelo autismo ou outras condições de saúde não é mera coincidência. Um curta da Pixar baseado em autismo.</info>
+<info>A história do amor incansável de um pai pelo seu filho autista. Uma pessoa em cada mil nasce com autismo; como consequência, a China tem 1 milhão de pacientes autistas. Dafu é um deles: parece distraído, repete o que as pessoas lhe dizem, nada com maestria, mantém tudo em casa em lugares determinados e talvez não esteja totalmente ciente da morte de sua mãe, ocorrida há alguns anos. Trabalhando em um aquário, Sam Wong mostra extremo cuidado e carinho com seu filho de 22 anos. Com a generosa ajuda de seus vizinhos, os dois vivem prosperamente. Porém, Wong compreende muito bem que um dia deixará o mundo e seu filho ficará sozinho. O que ele ainda não descobriu é que esse dia pode estar mais perto do que imagina.</info>
 </item>
 
 <item>
@@ -72,5 +73,13 @@ Na sua jornada, ele inspira optimismo e alegria no coração das pessoas que enc
 <thumbnail>https://www.themoviedb.org/t/p/original/rtfyUYdhZanZO9SFd33rh3dO2pJ.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>A história do amor incansável de um pai pelo seu filho autista. Uma pessoa em cada mil nasce com autismo; como consequência, a China tem 1 milhão de pacientes autistas. Dafu é um deles: parece distraído, repete o que as pessoas lhe dizem, nada com maestria, mantém tudo em casa em lugares determinados e talvez não esteja totalmente ciente da morte de sua mãe, ocorrida há alguns anos. Trabalhando em um aquário, Sam Wong mostra extremo cuidado e carinho com seu filho de 22 anos. Com a generosa ajuda de seus vizinhos, os dois vivem prosperamente. Porém, Wong compreende muito bem que um dia deixará o mundo e seu filho ficará sozinho. O que ele ainda não descobriu é que esse dia pode estar mais perto do que imagina.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] FLUTUANDO  FLOAT -  BASEADO NO AUTISMO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>https://archive.org/download/FRLUTUAR/FRLUTUAR.mp4</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/uo0XfFnovYeQ27YyW6ayK5SM6w5.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Um pai descobre que seu filho é Autista, o que o diferencia de outras crianças. Para manter os dois a salvo do julgamento do mundo, papai o esconde. Porém, quando a capacidade de seu filho se tornar pública, papai deve decidir se quer fugir ou se esconder ou aceitar seu filho como ele é. Aceitar um diagnóstico de autismo é essencial. Ainda mais se estivermos falando de uma criança, a aceitação por parte da família, principalmente dos pais, faz toda a diferença. A animação, com sete minutos de duração, conta a história de um garoto que tem o poder de flutuar (o que dá nome ao curta). Com a desaprovação da vizinhança e das pessoas ao redor para essa “diferença” da criança, o pai opta por isolar-se e manter o menino em casa. A tentativa é de protegê-lo. Qualquer semelhança com histórias de famílias afetadas pelo autismo ou outras condições de saúde não é mera coincidência. Um curta da Pixar baseado em autismo.</info>
 </item>
 
