@@ -59,7 +59,7 @@ Na sua jornada, ele inspira optimismo e alegria no coração das pessoas que enc
 </item>
 
 <item>
-<title>[COLOR silver][B] GILBERT GRAPE - APRENDIZ DE SONHADOR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<title>[COLOR silver][B] GILBERT GRAPE - APRENDIZ DE SONHADOR 1993 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5275ebfa43550e8341ac2a41b0a90266e66ea704</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/tjJFsCsiVO0cE1okiuLn4Ip9WJL.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
