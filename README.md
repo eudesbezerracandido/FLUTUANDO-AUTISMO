@@ -65,3 +65,12 @@ Na sua jornada, ele inspira optimismo e alegria no coração das pessoas que enc
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> O que está comendo Gibert uva é um filme muito bem filmadas de ternura, carinho e auto-consciência que está situado entre o fictício classe trabalhadora a uma rua da cidade Endora. Centrado em torno da família Ellen Uva e Amy e seus dois irmãos Arnie e Gilbert, que, junto com sua mãe viúva com obesidade mórbida Bonnie uva estão lutando para sobreviver e convivem com a ausência de uma figura paterna, o trabalho de baixo salário e dezessete anos de idade condição mental grave de Arnie. É neste caso um lado estranho e extremamente que o infeliz Gilbert tem que constantemente, enquanto trabalhava para a cidade está morrendo lentamente loja de conveniência, cuidar de seu irmão mais novo Arnie. A vida de Gilbert, o seu futuro, é frustrada ele sabe disso, mas é neste anjo da guarda que o seu amor e união para Arnie não pode, e não, ser deixar ir. Isto é, até o espírito livre de Becky chega na cidade, e com a avó está encalhado para a semana enquanto espera por peças para seu veículo. Esta realização desata novo.</info>
 </item>
+
+<item>
+<title>[COLOR silver][B] PARAISO NO ACEANO - BASEADP NO TEA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<utube>vZqOgRUz8Ko&ab</utube>
+<thumbnail>https://www.themoviedb.org/t/p/original/rtfyUYdhZanZO9SFd33rh3dO2pJ.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>A história do amor incansável de um pai pelo seu filho autista. Uma pessoa em cada mil nasce com autismo; como consequência, a China tem 1 milhão de pacientes autistas. Dafu é um deles: parece distraído, repete o que as pessoas lhe dizem, nada com maestria, mantém tudo em casa em lugares determinados e talvez não esteja totalmente ciente da morte de sua mãe, ocorrida há alguns anos. Trabalhando em um aquário, Sam Wong mostra extremo cuidado e carinho com seu filho de 22 anos. Com a generosa ajuda de seus vizinhos, os dois vivem prosperamente. Porém, Wong compreende muito bem que um dia deixará o mundo e seu filho ficará sozinho. O que ele ainda não descobriu é que esse dia pode estar mais perto do que imagina.</info>
+</item>
+
