@@ -87,7 +87,7 @@ Na sua jornada, ele inspira optimismo e alegria no coração das pessoas que enc
 
 <item>
 <title>[COLOR silver][B] PARAISO NO ACEANO - BASEADO NO TEA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link></link>
+<link>https://archive.org/download/paraiso_202303/TEA%20-%20Autismo%20Filme%20-%20Para%C3%ADso%20no%20Oceano%20%28Ocean%20Heaven%29%202010.mp4</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/rtfyUYdhZanZO9SFd33rh3dO2pJ.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>A história do amor incansável de um pai pelo seu filho autista. Uma pessoa em cada mil nasce com autismo; como consequência, a China tem 1 milhão de pacientes autistas. Dafu é um deles: parece distraído, repete o que as pessoas lhe dizem, nada com maestria, mantém tudo em casa em lugares determinados e talvez não esteja totalmente ciente da morte de sua mãe, ocorrida há alguns anos. Trabalhando em um aquário, Sam Wong mostra extremo cuidado e carinho com seu filho de 22 anos. Com a generosa ajuda de seus vizinhos, os dois vivem prosperamente. Porém, Wong compreende muito bem que um dia deixará o mundo e seu filho ficará sozinho. O que ele ainda não descobriu é que esse dia pode estar mais perto do que imagina.</info>
