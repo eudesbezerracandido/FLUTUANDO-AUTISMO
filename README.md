@@ -33,7 +33,7 @@
 </item>
 
 <item>
-<title>[COLOR silver][B] RAIN MAN 1988  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<title>[COLOR silver][B] RAIN MAN 1988 - BASEADO NO TEA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:690baeb0abc5ab2ccea82c363759ea3855ba701b</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/fwVbH7LKfEieydL0xfh9rzTatU0.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
