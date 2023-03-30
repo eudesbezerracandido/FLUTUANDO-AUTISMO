@@ -47,3 +47,13 @@
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Cinebiografia da jovem autista Temple Grandin (Claire Danes) que tinha sua maneira particular de ver o mundo, se distanciou dos humanos, mas chegou a conseguir, entre outras conquistas, defender seu doutorado. Com uma percepção de vida totalmente diferenciada, dedicou-se aos animais e revolucionou os métodos de manejo do gado com técnicas que surpreenderam experientes criadores e ajudaram a indústria da pecuária americana.</info>
 </item>
+
+<item>
+<title>[COLOR silver][B] MEU NOME É KHAN - BASEADO NO TEA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3a0f40d4fb139637a342100b17c33ee2f594b24a</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/gzrodQoWY2v8XEfFAT7pNRL5uMf.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Rizwan Khan (Tanay Chheda), uma criança muçulmana que tem síndrome de Asperger, cresceu com a sua mãe (Zarina Wahab) na secção Borivali de Bombaim. Quando adulto (Shahrukh Khan), Rizwan muda-se para São Francisco onde vive com os seus irmãos. Ele apaixona-se por Mandira (Kajol) com quem mais tarde se casa.
+Após o 11 de Setembro, Rizwan e Mandira começam a enfrentar uma série de dificuldades o que faz com que eles se separem. Rizwan então começa uma longa jornada através dos Estados Unidos para conseguir Mandira de volta.
+Na sua jornada, ele inspira optimismo e alegria no coração das pessoas que encontra pela disseminação de mensagens por onde quer que passe.</info>
+</item>
