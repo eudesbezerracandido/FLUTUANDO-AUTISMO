@@ -39,3 +39,11 @@
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> Um jovem yuppie (Tom Cruise) fica sabendo que seu pai faleceu. Eles nunca se deram bem e não se viam há vários anos, mas ele vai ao enterro e quando vai cuidar do testamento fica sabendo que herdou um Buick 1949 e as roseiras premiadas do seu pai, sendo que um “beneficiário” tinha herdado três milhões de dólares. Fica curioso em saber quem herdou aquela fortuna e descobre que foi seu irmão (Dustin Hoffman), que ele desconhecia a existência. O irmão dele é autista, mas pode calcular problemas matemáticos complicados com grande velocidade e precisão. O yuppie seqüestra seu irmão autista da instituição onde ele está internado, pois planeja levá-lo para Los Angeles e exigir metade do dinheiro, nem que para isto tenha que ir aos tribunais. É durante uma viagem cheia de pequenos imprevistos que os dois se compreenderão mutuamente e entenderão o significado de serem irmãos.</info>
 </item>
+
+<item>
+<title>[COLOR silver][B] TEMPLE GRAMDIN - BASEADO NO TEA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:79F6806435EFC2596B6010A3C6D5BC7C386052B9</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/gQhQ6yEkUkDDo1zugpq46PJN8xZ.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Cinebiografia da jovem autista Temple Grandin (Claire Danes) que tinha sua maneira particular de ver o mundo, se distanciou dos humanos, mas chegou a conseguir, entre outras conquistas, defender seu doutorado. Com uma percepção de vida totalmente diferenciada, dedicou-se aos animais e revolucionou os métodos de manejo do gado com técnicas que surpreenderam experientes criadores e ajudaram a indústria da pecuária americana.</info>
+</item>
