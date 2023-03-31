@@ -77,3 +77,11 @@ Na sua jornada, ele inspira optimismo e alegria no coração das pessoas que enc
 <info>A história do amor incansável de um pai pelo seu filho autista. Uma pessoa em cada mil nasce com autismo; como consequência, a China tem 1 milhão de pacientes autistas. Dafu é um deles: parece distraído, repete o que as pessoas lhe dizem, nada com maestria, mantém tudo em casa em lugares determinados e talvez não esteja totalmente ciente da morte de sua mãe, ocorrida há alguns anos. Trabalhando em um aquário, Sam Wong mostra extremo cuidado e carinho com seu filho de 22 anos. Com a generosa ajuda de seus vizinhos, os dois vivem prosperamente. Porém, Wong compreende muito bem que um dia deixará o mundo e seu filho ficará sozinho. O que ele ainda não descobriu é que esse dia pode estar mais perto do que imagina.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] UMA LIÇÃO DE AMOR - BASEADO NO TEA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8907dddccd5e6aef289d628bede2c1c4911f878e</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/rSJAtuY0bMJ8LRXipJQhCku1xTk.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Sam Dawson (Sean Penn) é um homem com deficiência mental que cria sua filha Lucy (Dakota Fanning) com uma grande ajuda de seus amigos. Porém, assim que faz 7 anos Lucy começa a ultrapassar intelectualmente seu pai, e esta situação chama a atenção de uma assistente social que quer Lucy internada em um orfanato. A partir de então Sam enfrenta um caso virtualmente impossível de ser vencido por ele, contando para isso com a ajuda da advogada Rita Harrison (Michelle Pfeiffer), que aceita o caso como um desafio com seus colegas de profissão.</info>
+</item>
+
