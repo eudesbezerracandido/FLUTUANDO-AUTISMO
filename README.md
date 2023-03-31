@@ -87,7 +87,7 @@ Na sua jornada, ele inspira optimismo e alegria no coração das pessoas que enc
 
 <item>
 <title>[COLOR silver][B] SON RISE - BASEADO NO TEA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<utube>cc4xGlZ8WNA&ab</utube>
+<utube>cc4xGlZ8WNA</utube>
 <thumbnail>https://www.themoviedb.org/t/p/original/9XBUxTREb8G7tWzwoovnVQDn2Sq.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Quando nasceu, Raun era um saudável e feliz bebê. Com o passar dos meses, seus pais começam a observar que há alguma coisa estranha com ele, sempre com um ar ausente. Um dia vem a confirmação do que suspeitavam: Raun tinha autismo. Decidem então penetrar no mundo da criança, acreditando que somente o milagre do amor poderia salvá-lo.</info>
