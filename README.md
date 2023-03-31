@@ -86,7 +86,7 @@ Na sua jornada, ele inspira optimismo e alegria no coração das pessoas que enc
 </item>
 
 <item>
-<title>[COLOR silver][B] SON RISE - BASEADO NO TEA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<title>[COLOR silver][B] MEU FILHO MEU MUNDO ( SON RISE ) - BASEADO NO TEA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <utube>cc4xGlZ8WNA</utube>
 <thumbnail>https://www.themoviedb.org/t/p/original/9XBUxTREb8G7tWzwoovnVQDn2Sq.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
