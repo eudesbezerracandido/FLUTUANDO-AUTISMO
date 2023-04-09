@@ -109,3 +109,11 @@ Na sua jornada, ele inspira optimismo e alegria no coração das pessoas que enc
 <info>Corrine descobriu o amor com os seus filhos. Corrine (Mary-Louise Parker) fica transtornada ao descobrir que não existia cura ou tratamento efetivo para a doença de seus filhos gêmeos Stephen e Phillip. Para não se tornar prisioneira desta deficiência ela está determinada a propor uma vida normal aos garotos e começa uma jornada em busca desta nova vida. Ela terá que enfrentar muitos obstáculos para superar os preconceitos da sociedade e mostrar a capacidade de seus filhos. A sua dedicação é maior do que qualquer barreira e ela começa a ser aceita pelas outras pessoas. O que ela não esperava era a atenção e generosidade de Doug Thomas (Aidan Quinn), que compartilha os seus problemas e participa de sua família. Tudo começa a mudar quando um de seus filhos é aceito em uma escola e o outro entra para a equipe de corrida cross country. A superação é inacreditável e o sucesso dos garotos vai além do esperado.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] QUERIDO JOHN-BASEADO NO TEA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<utube>DXYIsWAoObY</utube>
+<thumbnail>https://www.themoviedb.org/t/p/original/uD0p6CgVhBBJKiYFdqeU1C6PMmd.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>John Tyree é um jovem soldado que está em casa, licenciado. Um dia ele conhece Savannah Curtis, uma universitária idealista em férias, por quem se apaixona. Eles iniciam um relacionamento, só que logo John precisará retornar ao trabalho. Dentro de um ano ele terminará o serviço militar, quando poderão enfim ficar juntos. Neste período eles trocam diversas cartas, onde cada um conta o que lhe acontece a cada dia.</info>
+</item>
+
