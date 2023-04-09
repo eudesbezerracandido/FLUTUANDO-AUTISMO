@@ -93,3 +93,11 @@ Na sua jornada, ele inspira optimismo e alegria no coração das pessoas que enc
 <info>Quando nasceu, Raun era um saudável e feliz bebê. Com o passar dos meses, seus pais começam a observar que há alguma coisa estranha com ele, sempre com um ar ausente. Um dia vem a confirmação do que suspeitavam: Raun tinha autismo. Decidem então penetrar no mundo da criança, acreditando que somente o milagre do amor poderia salvá-lo.</info>
 </item> 
 
+<item>
+<title>[COLOR silver][B] UM GAROTO CHAMADO PO -BASEADO NO TEA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<utube>ANXa9THrTMU</utube>
+<thumbnail>https://www.themoviedb.org/t/p/original/ticaJamKmSTf1roAD1IFznVJRa6.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Quando a jovem esposa de David Wilson é vítima de câncer, ele se torna um pai viúvo com a única responsabilidade de cuidar de seu filho com autismo. Patrick, que prefere ser chamado de 'Po', é uma criança superdotada, mas um desafio para quem era muito próximo de sua mãe e incapaz de comunicar o seu próprio sentimento de perda.</info>
+</item>
+
