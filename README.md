@@ -37,7 +37,7 @@
 
 <item>
 <title>[COLOR silver][B] RAIN MAN 1988 - BASEADO NO TEA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E4FA426DD67A4981D71903DABF59E6E0FF10B3A0</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CFBAA1B40A7A4F5AAC57B10BB8FDACADA197E111</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/fwVbH7LKfEieydL0xfh9rzTatU0.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> Um jovem yuppie (Tom Cruise) fica sabendo que seu pai faleceu. Eles nunca se deram bem e não se viam há vários anos, mas ele vai ao enterro e quando vai cuidar do testamento fica sabendo que herdou um Buick 1949 e as roseiras premiadas do seu pai, sendo que um “beneficiário” tinha herdado três milhões de dólares. Fica curioso em saber quem herdou aquela fortuna e descobre que foi seu irmão (Dustin Hoffman), que ele desconhecia a existência. O irmão dele é autista, mas pode calcular problemas matemáticos complicados com grande velocidade e precisão. O yuppie seqüestra seu irmão autista da instituição onde ele está internado, pois planeja levá-lo para Los Angeles e exigir metade do dinheiro, nem que para isto tenha que ir aos tribunais. É durante uma viagem cheia de pequenos imprevistos que os dois se compreenderão mutuamente e entenderão o significado de serem irmãos.</info>
