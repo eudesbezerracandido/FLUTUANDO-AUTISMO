@@ -3,6 +3,13 @@
 
 
 
+<item>
+<title>[COLOR silver][B] LIFE ANIMATED - DOCUMENTÁRIO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>https://archive.org/download/life-animated/LIFE%2C%20ANIMATED.mp4</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/dAbgluMr621IDx0fvyzVOYtAhEX.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Este documentário segue uma família e sua luta para romper com seu filho autista e o irmão, que acabou por fazer, por meio de filmes da Disney. O filme segue o filho autista como ele sai de casa para morar sozinho em um centro de apoio, enquanto ele narra a evolução de sua condição e de seus efeitos sobre a família."a Vida, Animação" é perfeitamente filme e um dos que mais gostei, sem sentir fortemente sobre ele. Ele's uma interessante se não fascinante olhar sobre o mundo do autismo, mas as partes de um filme que eu achei mais atraentes foram os breves entrevistas com o irmão mais velho, que está aterrorizado com a perspectiva de um futuro onde ele está sozinho, responsável por cuidar de seu irmão. Havia um outro documentário para ser feito do que isso.E a Disney, a empresa pôde't ter pedido uma melhor comercial. No começo eu estava surpreso que os cineastas foram capazes de obter os direitos para todos os da Disney clipes mostrado por toda parte, mas então eu pensei sobre o quanto a publicidade gratuita que a empresa iria começar a partir deste filme sozinho e não estava mais surpreso.Nomeado para Melhor Documentário em 2016 Prêmios da Academia.Classe: B+</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] FAROL DAS ORCAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
