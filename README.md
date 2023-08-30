@@ -2,12 +2,22 @@
 
 
 
+
+
 <item>
 <title>[COLOR silver][B] FAROL DAS ORCAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>https://archive.org/download/farol-das-orcas-tea/Farol%20das%20Orcas%20TEA.mp4</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/hHEYA3MhmauRQ3kit0ewQ9KtgNW.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Uma mãe com o filho autista viaja da Espanha para a Argentina buscando uma solução para o problema do seu filho.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] TÃO FORTE E TÃO PERTO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>https://archive.org/download/tao-forte-e-tao-perto_20230830/T%C3%A3o%20forte%20e%20t%C3%A3o%20perto.mp4</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/wtGC278lQrtQ7lNVncq6Dx4RBsH.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Um menino de 9 anos perde seu pai no atentado de 11 de setembro em Nova York. Ele acha uma chave em sua casa e acredita ser uma mensagem de seu pai. Começa assim uma comovente expedição pela cidade para achar a fechadura que se abre com a chave.</info>
 </item>
 
 <item>
