@@ -4,7 +4,7 @@
 
 <item>
 <title>[COLOR silver][B] FAROL DAS ORCAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>https://proxy-20.nyc.dailymotion.com/sec(3pK_lWmRm9K5a5rtJDyjq6P7VwOfyJf5W400lvx6B2WbfmuTxzfMHGOQmnLvxs0CKxpCVYIYkkQaluqUXGuPXlDPEnaZsIdSE251OlrfLzw)/video/439/844/512448934_mp4_h264_aac_hq.m3u8</link>
+<link>https://archive.org/download/farol-das-orcas-tea/Farol%20das%20Orcas%20TEA.mp4</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/hHEYA3MhmauRQ3kit0ewQ9KtgNW.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Uma mãe com o filho autista viaja da Espanha para a Argentina buscando uma solução para o problema do seu filho.</info>
