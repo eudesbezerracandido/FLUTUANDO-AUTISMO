@@ -5,7 +5,6 @@
 
 
 
-
 <item>
 <title>[COLOR silver][B] AUTISMO - ENTENDA DE FORMA SIMPLES [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>https://archive.org/download/autismo-entenda-de-forma-simples/Autismo%20Entenda%20de%20forma%20simples.mp4</link>
@@ -37,6 +36,22 @@
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Em Um Mundo Interior é um documentário brasileiro lançado em 2018 e que tem uma proposta bem interessante, acompanhar a vida de sete famílias que convivem com membros que possuem algum Transtorno do Espectro Autista (TEA). Através dessas sete famílias, a obra tenta apresentar a diversidade do autismo e também dos autistas, mostrando desde pessoas com autismo clássico até outras com autismo de alto desempenho, afim de mostrar a diversidade e a complexidade do espectro e também as dificuldades particulares de cada família.
 Alternando entrevistas com médicos, terapeutas e testemunhos de pais, o documentário retrata a complexidade do universo do autismo – uma disfunção neurológica que afeta a linguagem e a parte motora e, especialmente, a interação com os outros. Retratando diversos personagens, o filme cria condições para que o espectador possa compartilhar as situações.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] JIMMY - UM ELO DE AMOR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>https://archive.org/download/tea_20230914/UM%20ELO%20DE%20AMOR.mp4</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/adDSwyg4njulz7yycPOSsHtb0CL.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Jimmy (Ian Colletti) é um jovem autista que às vezes não compreende tudo que acontece ao ser redor, porém ele possui uma memória fantástica, mas que junto com sua ingenuidade, acaba deixando o adolescente em apuros. O avô (Ted Levine) e a madrasta (Kelly Carlson) incentivam o garoto a superar os traumas, entretanto, ele fica aflito ao se deparar com seu maior medo.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] SEI QUE VOU TE AMAR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>https://archive.org/download/tea_20230914/SEI%20QUE%20VOU%20TE%20AMAR.mp4</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/6IYpXvtyVDfj7hZs2w7inkgbScR.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Thomas Mollison é um jovem de 16 anos que quer apenas ter uma vida normal. Seu irmão mais velho, Charlie, tem autismo e TDAH e o funcionamento de toda sua família gira em torno de lhe oferecer um ambiente de vida seguro. Ao se mudar para uma nova casa e uma nova escola, Thomas conhece Jackie Masters e começa a se apaixonar por ela. Quando sua mãe fica confinada à cama devido à gravidez, Thomas então deve assumir a responsabilidade de cuidar de seu irmão, o que pode custar a sua relação com Jackie, especialmente quando isso desencadeia um violento confronto na família em sua festa de aniversário, que leva o garoto a uma viagem emocional repleta de frustrações e angústias.</info>
 </item>
 
 <item>
