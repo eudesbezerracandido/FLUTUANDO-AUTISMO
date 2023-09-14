@@ -40,6 +40,14 @@ Alternando entrevistas com médicos, terapeutas e testemunhos de pais, o documen
 </item>
 
 <item>
+<title>[COLOR silver][B] MARY & MAX-UMA AMIZADE DIFERENTE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B2BA74678FE5D6AE295E87453F245AABCA767652</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/zlKFqkjaMokMtHYGSjukLKV7omx.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Mary Daisy Dinkle é uma menina solitária de oito anos, que vive em Melbourne, na Austrália. Max Jerry Horovitz tem 44 anos e vive em Nova York. Obeso e também solitário, possui Síndrome de Asperger. Um certo dia, Mary encontra o endereço de Max em uma lista de endereços do correio de Nova York. Então resolve lhe escrever uma carta contando um pouco da sua vida. A partir daí, desenvolvem uma forte amizade, mesmo com tamanha distância e a diferença de idade existente entre eles, que transcorre de acordo com os altos e baixos da vida. Baseado em uma história real.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] LIFE ANIMATED - DOCUMENTÁRIO LEGENDADO PTBR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>https://archive.org/download/life-animated/LIFE%2C%20ANIMATED.mp4</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/dAbgluMr621IDx0fvyzVOYtAhEX.jpg</thumbnail>
