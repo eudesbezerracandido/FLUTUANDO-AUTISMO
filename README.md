@@ -48,7 +48,7 @@ Alternando entrevistas com médicos, terapeutas e testemunhos de pais, o documen
 
 <item>
 <title>[COLOR silver][B] SEI QUE VOU TE AMAR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>https://archive.org/download/tea_20230914/SEI%20QUE%20VOU%20TE%20AMAR.mp4</link>
+<link>https://archive.org/download/sei-que-vou-te-amar/SEI%20QUE%20VOU%20TE%20AMAR.mp4</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/6IYpXvtyVDfj7hZs2w7inkgbScR.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Thomas Mollison é um jovem de 16 anos que quer apenas ter uma vida normal. Seu irmão mais velho, Charlie, tem autismo e TDAH e o funcionamento de toda sua família gira em torno de lhe oferecer um ambiente de vida seguro. Ao se mudar para uma nova casa e uma nova escola, Thomas conhece Jackie Masters e começa a se apaixonar por ela. Quando sua mãe fica confinada à cama devido à gravidez, Thomas então deve assumir a responsabilidade de cuidar de seu irmão, o que pode custar a sua relação com Jackie, especialmente quando isso desencadeia um violento confronto na família em sua festa de aniversário, que leva o garoto a uma viagem emocional repleta de frustrações e angústias.</info>
