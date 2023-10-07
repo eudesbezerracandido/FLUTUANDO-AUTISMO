@@ -39,6 +39,14 @@ Alternando entrevistas com médicos, terapeutas e testemunhos de pais, o documen
 </item>
 
 <item>
+<title>[COLOR silver][B] O MILAGRE DE TYSON [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:db46a5e85e8d7d91151f510961beb63def334e74</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/1RPTzQiQ3JiRlG7uPMdiPEWbo5B.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Um menino autista e que nunca praticou esportes se esforça para se tornar um campeão improvável da maratona, o que dá a seu pai uma segunda chance de colocar sua família em primeiro lugar.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] JIMMY - UM ELO DE AMOR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>https://archive.org/download/tea_20230914/UM%20ELO%20DE%20AMOR.mp4</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/adDSwyg4njulz7yycPOSsHtb0CL.jpg</thumbnail>
