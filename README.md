@@ -23,7 +23,7 @@
 
 <item>
 <title>[COLOR silver][B] AUTISMO - ENTENDA DE FORMA SIMPLES 2 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>https://archive.org/download/autismo-video-especial/Autismo%20_%20V%C3%ADdeo%20Especial.mp4</link>
+<link>https://archive.org/download/tea-transtorno-asperctro-autista/TEA-Transtorno%20asperctro%20autista.mp4</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/hPRfIKy7umoC9SNoEHapXFoi4PY.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Autismo, ou Transtorno do Espectro Autista (TEA), é um transtorno neurobiológico que afeta a comunicação social, a interação social, a imaginação, o comportamento e os interesses. O autismo é chamado de "espectro" porque o impacto do transtorno varia muito de pessoa para pessoa. Algumas pessoas com autismo apresentam poucos sintomas, enquanto outras podem ter dificuldades significativas em várias áreas da vida.</info>
