@@ -7,7 +7,7 @@
 
 <item>
 <title>[COLOR silver][B] AUTISMO - ENTENDA DE FORMA SIMPLES [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>https://archive.org/download/autismo-entenda-de-forma-simples/Autismo%20Entenda%20de%20forma%20simples.mp4</link>
+<link>https://archive.org/download/entendendo-autismo/Entendendo%20autismo.mp4</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/hPRfIKy7umoC9SNoEHapXFoi4PY.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>O autismo é um transtorno do desenvolvimento neurológico que afeta a maneira como uma pessoa se comunica, interage socialmente e processa informações. Embora as causas do autismo ainda sejam desconhecidas, sabe-se que é um distúrbio complexo que pode afetar indivíduos de maneiras diferentes.</info>
