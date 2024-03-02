@@ -39,62 +39,6 @@ Alternando entrevistas com médicos, terapeutas e testemunhos de pais, o documen
 </item>
 
 <item>
-<title>[COLOR silver][B] O MILAGRE DE TYSON [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:db46a5e85e8d7d91151f510961beb63def334e74</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/1RPTzQiQ3JiRlG7uPMdiPEWbo5B.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info>Um menino autista e que nunca praticou esportes se esforça para se tornar um campeão improvável da maratona, o que dá a seu pai uma segunda chance de colocar sua família em primeiro lugar.</info>
-</item>
-
-<item>
-<title>[COLOR silver][B] JIMMY - UM ELO DE AMOR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>https://archive.org/download/tea_20230914/UM%20ELO%20DE%20AMOR.mp4</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/adDSwyg4njulz7yycPOSsHtb0CL.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info>Jimmy (Ian Colletti) é um jovem autista que às vezes não compreende tudo que acontece ao ser redor, porém ele possui uma memória fantástica, mas que junto com sua ingenuidade, acaba deixando o adolescente em apuros. O avô (Ted Levine) e a madrasta (Kelly Carlson) incentivam o garoto a superar os traumas, entretanto, ele fica aflito ao se deparar com seu maior medo.</info>
-</item>
-
-<item>
-<title>[COLOR silver][B] SEI QUE VOU TE AMAR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>https://archive.org/download/sei-que-vou-te-amar/SEI%20QUE%20VOU%20TE%20AMAR.mp4</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/6IYpXvtyVDfj7hZs2w7inkgbScR.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info>Thomas Mollison é um jovem de 16 anos que quer apenas ter uma vida normal. Seu irmão mais velho, Charlie, tem autismo e TDAH e o funcionamento de toda sua família gira em torno de lhe oferecer um ambiente de vida seguro. Ao se mudar para uma nova casa e uma nova escola, Thomas conhece Jackie Masters e começa a se apaixonar por ela. Quando sua mãe fica confinada à cama devido à gravidez, Thomas então deve assumir a responsabilidade de cuidar de seu irmão, o que pode custar a sua relação com Jackie, especialmente quando isso desencadeia um violento confronto na família em sua festa de aniversário, que leva o garoto a uma viagem emocional repleta de frustrações e angústias.</info>
-</item>
-
-<item>
-<title>[COLOR silver][B] MARY & MAX-UMA AMIZADE DIFERENTE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B2BA74678FE5D6AE295E87453F245AABCA767652</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/zlKFqkjaMokMtHYGSjukLKV7omx.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info>Mary Daisy Dinkle é uma menina solitária de oito anos, que vive em Melbourne, na Austrália. Max Jerry Horovitz tem 44 anos e vive em Nova York. Obeso e também solitário, possui Síndrome de Asperger. Um certo dia, Mary encontra o endereço de Max em uma lista de endereços do correio de Nova York. Então resolve lhe escrever uma carta contando um pouco da sua vida. A partir daí, desenvolvem uma forte amizade, mesmo com tamanha distância e a diferença de idade existente entre eles, que transcorre de acordo com os altos e baixos da vida. Baseado em uma história real.</info>
-</item>
-
-<item>
-<title>[COLOR silver][B] LIFE ANIMATED - DOCUMENTÁRIO LEGENDADO PTBR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>https://archive.org/download/life-animated/LIFE%2C%20ANIMATED.mp4</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/dAbgluMr621IDx0fvyzVOYtAhEX.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info>Este documentário segue uma família e sua luta para romper com seu filho autista e o irmão, que acabou por fazer, por meio de filmes da Disney. O filme segue o filho autista como ele sai de casa para morar sozinho em um centro de apoio, enquanto ele narra a evolução de sua condição e de seus efeitos sobre a família."a Vida, Animação" é perfeitamente filme e um dos que mais gostei, sem sentir fortemente sobre ele. Ele's uma interessante se não fascinante olhar sobre o mundo do autismo, mas as partes de um filme que eu achei mais atraentes foram os breves entrevistas com o irmão mais velho, que está aterrorizado com a perspectiva de um futuro onde ele está sozinho, responsável por cuidar de seu irmão. Havia um outro documentário para ser feito do que isso.E a Disney, a empresa pôde't ter pedido uma melhor comercial. No começo eu estava surpreso que os cineastas foram capazes de obter os direitos para todos os da Disney clipes mostrado por toda parte, mas então eu pensei sobre o quanto a publicidade gratuita que a empresa iria começar a partir deste filme sozinho e não estava mais surpreso.Nomeado para Melhor Documentário em 2016 Prêmios da Academia.Classe: B+</info>
-</item>
-
-<item>
-<title>[COLOR silver][B] FAROL DAS ORCAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>https://archive.org/download/farol-das-orcas-tea/Farol%20das%20Orcas%20TEA.mp4</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/hHEYA3MhmauRQ3kit0ewQ9KtgNW.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info>Uma mãe com o filho autista viaja da Espanha para a Argentina buscando uma solução para o problema do seu filho.</info>
-</item>
-
-<item>
-<title>[COLOR silver][B] TÃO FORTE E TÃO PERTO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>https://archive.org/download/tao-forte-e-tao-perto_20230830/T%C3%A3o%20forte%20e%20t%C3%A3o%20perto.mp4</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/wtGC278lQrtQ7lNVncq6Dx4RBsH.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info>Um menino de 9 anos perde seu pai no atentado de 11 de setembro em Nova York. Ele acha uma chave em sua casa e acredita ser uma mensagem de seu pai. Começa assim uma comovente expedição pela cidade para achar a fechadura que se abre com a chave.</info>
-</item>
-
-<item>
 <title>[COLOR silver][B] FLUTUANDO  FLOAT -  BASEADO NO AUTISMO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>https://archive.org/download/float_202311/FLOAT.mp4</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/uo0XfFnovYeQ27YyW6ayK5SM6w5.jpg</thumbnail>
@@ -103,19 +47,19 @@ Alternando entrevistas com médicos, terapeutas e testemunhos de pais, o documen
 </item>
 
 <item>
-<title>[COLOR silver][B] RAIN MAN 1988 - BASEADO NO TEA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>https://archive.org/download/1988_20230524/RAIN%20MAN%201988.mp4</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/fwVbH7LKfEieydL0xfh9rzTatU0.jpg</thumbnail>
+<title>[COLOR silver][B] O MILAGRE DE TYSON [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:db46a5e85e8d7d91151f510961beb63def334e74</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/1RPTzQiQ3JiRlG7uPMdiPEWbo5B.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info> Um jovem yuppie (Tom Cruise) fica sabendo que seu pai faleceu. Eles nunca se deram bem e não se viam há vários anos, mas ele vai ao enterro e quando vai cuidar do testamento fica sabendo que herdou um Buick 1949 e as roseiras premiadas do seu pai, sendo que um “beneficiário” tinha herdado três milhões de dólares. Fica curioso em saber quem herdou aquela fortuna e descobre que foi seu irmão (Dustin Hoffman), que ele desconhecia a existência. O irmão dele é autista, mas pode calcular problemas matemáticos complicados com grande velocidade e precisão. O yuppie seqüestra seu irmão autista da instituição onde ele está internado, pois planeja levá-lo para Los Angeles e exigir metade do dinheiro, nem que para isto tenha que ir aos tribunais. É durante uma viagem cheia de pequenos imprevistos que os dois se compreenderão mutuamente e entenderão o significado de serem irmãos.</info>
+<info>Um menino autista e que nunca praticou esportes se esforça para se tornar um campeão improvável da maratona, o que dá a seu pai uma segunda chance de colocar sua família em primeiro lugar.</info>
 </item>
 
 <item>
-<title>[COLOR silver][B] TEMPLE GRAMDIN - BASEADO NO TEA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:79F6806435EFC2596B6010A3C6D5BC7C386052B9</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/gQhQ6yEkUkDDo1zugpq46PJN8xZ.jpg</thumbnail>
+<title>[COLOR silver][B] MARY & MAX-UMA AMIZADE DIFERENTE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B2BA74678FE5D6AE295E87453F245AABCA767652</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/zlKFqkjaMokMtHYGSjukLKV7omx.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info>Cinebiografia da jovem autista Temple Grandin (Claire Danes) que tinha sua maneira particular de ver o mundo, se distanciou dos humanos, mas chegou a conseguir, entre outras conquistas, defender seu doutorado. Com uma percepção de vida totalmente diferenciada, dedicou-se aos animais e revolucionou os métodos de manejo do gado com técnicas que surpreenderam experientes criadores e ajudaram a indústria da pecuária americana.</info>
+<info>Mary Daisy Dinkle é uma menina solitária de oito anos, que vive em Melbourne, na Austrália. Max Jerry Horovitz tem 44 anos e vive em Nova York. Obeso e também solitário, possui Síndrome de Asperger. Um certo dia, Mary encontra o endereço de Max em uma lista de endereços do correio de Nova York. Então resolve lhe escrever uma carta contando um pouco da sua vida. A partir daí, desenvolvem uma forte amizade, mesmo com tamanha distância e a diferença de idade existente entre eles, que transcorre de acordo com os altos e baixos da vida. Baseado em uma história real.</info>
 </item>
 
 <item>
