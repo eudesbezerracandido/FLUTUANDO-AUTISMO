@@ -55,6 +55,14 @@ Alternando entrevistas com médicos, terapeutas e testemunhos de pais, o documen
 </item>
 
 <item>
+<title>[COLOR silver][B] ATYPICAL 1º TEMPORADA COMPLETA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5d8bd695c8cee3d8ca1a49b4c3b8dc4e398c3c8b</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/iZ10Q7bEBP5bYD8DpKIbsRxdpeC.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Primeira temporada completa e dublada da série exclusiva da Netflix. A série acompanha um jovem de 18 anos com autismo em sua busca por amor e independência. Sua jornada de autodescoberta é tão divertida quanto dramática e tem um impacto em toda a sua família, forçando-os a lidar com as alterações em suas próprias vidas e os fazendo questionar: afinal, o que realmente significa ser normal?</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] LIFE ANIMATED - DOCUMENTÁRIO LEGENDADO PTBR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <utube>hxkMnNc-Ecw</utube>
 <thumbnail>https://www.themoviedb.org/t/p/original/dAbgluMr621IDx0fvyzVOYtAhEX.jpg</thumbnail>
