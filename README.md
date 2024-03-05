@@ -71,6 +71,14 @@ Alternando entrevistas com médicos, terapeutas e testemunhos de pais, o documen
 </item>
 
 <item>
+<title>[COLOR silver][B] ATYPICAL 3º TEMPORADA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:368c230fc5dde511e21d16c4bcd84d1d5ee77cd1</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/rQPTm1n6u2aKWN0mon2Pt5WvCq8.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Sam (Keir Gilchrist) é um jovem autista de 18 anos que está em busca de independência. Nesta jornada, repleta de desafios, mas que rende algumas risadas, ele e sua família aprendem a lidar com as dificuldades da vida e descobrem que o significado de "ser um pessoa normal" não é tão óbvio assim.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] LIFE ANIMATED - DOCUMENTÁRIO LEGENDADO PTBR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <utube>hxkMnNc-Ecw</utube>
 <thumbnail>https://www.themoviedb.org/t/p/original/dAbgluMr621IDx0fvyzVOYtAhEX.jpg</thumbnail>
