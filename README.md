@@ -63,6 +63,14 @@ Alternando entrevistas com médicos, terapeutas e testemunhos de pais, o documen
 </item>
 
 <item>
+<title>[COLOR silver][B] ARTHUR E O INFINITO - DOCUMENTÁRIO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<utube>33Fv3_0s0rE</utube>
+<thumbnail>https://media.themoviedb.org/t/p/original/ya33AhQelNAhALGZ6mQsGyj8Hw7.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>Arthur e o Infinito conta a história de uma família e seus conflitos, ao ter o filho mais novo, Arthur, de seis anos, diagnosticado como autista. Marina, sua mãe, assume a responsabilidade de dedicar todo o seu tempo para o filho e buscar caminhos para compreender melhor seu mundo, mostrando a realidade das emoções e sentimentos da família.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] MARY & MAX-UMA AMIZADE DIFERENTE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B2BA74678FE5D6AE295E87453F245AABCA767652</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/zlKFqkjaMokMtHYGSjukLKV7omx.jpg</thumbnail>
