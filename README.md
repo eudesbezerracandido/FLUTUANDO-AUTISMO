@@ -65,6 +65,14 @@ Alternando entrevistas com médicos, terapeutas e testemunhos de pais, o documen
 </item>
 
 <item>
+<title>[COLOR silver][B] TEA-UMA VIAGEM INÉSPERADA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<utube>Xv6sIfaG6nk</utube>
+<thumbnail>https://media.themoviedb.org/t/p/original/hPRfIKy7umoC9SNoEHapXFoi4PY.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>Corrine descobriu o amor com os seus filhos. Corrine fica transtornada ao descobrir que não existia cura ou tratamento efetivo para a doença de seus filhos gêmeos Stephen e Phillip, o autismo. Para não se tornar prisioneira desta deficiência ela está determinada a propor uma vida normal aos garotos e começa uma jornada em busca desta nova vida. Ela terá que enfrentar muitos obstáculos para superar os preconceitos da sociedade e mostrar a capacidade de seus filhos. A sua dedicação é maior do que qualquer barreira e ela começa a ser aceita pelas outras pessoas. O que ela não esperava era a atenção e generosidade de Doug Thomas, que compartilha os seus problemas e participa de sua família. Tudo começa a mudar quando um de seus filhos é aceito em uma escola e o outro entra para a equipe de corrida cross country.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] LIFE ANIMATED - DOCUMENTÁRIO LEGENDADO PTBR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <utube>hxkMnNc-Ecw</utube>
 <thumbnail>https://www.themoviedb.org/t/p/original/dAbgluMr621IDx0fvyzVOYtAhEX.jpg</thumbnail>
