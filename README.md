@@ -7,7 +7,7 @@
 
 <item>
 <title>[COLOR silver][B]  COPPERMAN - UM HERÓI ESPECIAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<utube>9I3rDjSdoLk</utube>
+<utube>puoNdhf1Bzc</utube>
 <thumbnail>https://media.themoviedb.org/t/p/original/qgyTgQ6xoeuqHLcTLOIV0ZfCtYO.jpg</thumbnail>
 <fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
 <info>A história de Anselmo, que desde criança sonha em se tornar um super-herói. O filme gira em torno do tema do autismo, mostrando que, através da sensibilidade e da imaginação, um elemento de diversidade pode se transformar em uma linda vantagem. A história de um homem que vive seu sonho de infância. O filme gira em torno do tema do autismo.</info>
@@ -15,7 +15,7 @@
 
 <item>
 <title>[COLOR silver][B] COPPERMAN - UM HERÓI ESPECIAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=9I3rDjSdoLk&ab_channel$nome=[B] AUTISMO [/B]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=puoNdhf1Bzc$nome=[B] AUTISMO [/B]</link>
 <thumbnail>https://media.themoviedb.org/t/p/original/qgyTgQ6xoeuqHLcTLOIV0ZfCtYO.jpg</thumbnail>
 <fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
 <info>A história de Anselmo, que desde criança sonha em se tornar um super-herói. O filme gira em torno do tema do autismo, mostrando que, através da sensibilidade e da imaginação, um elemento de diversidade pode se transformar em uma linda vantagem. A história de um homem que vive seu sonho de infância. O filme gira em torno do tema do autismo.</info>
