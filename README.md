@@ -49,6 +49,14 @@ Alternando entrevistas com médicos, terapeutas e testemunhos de pais, o documen
 </item>
 
 <item>
+<title>[COLOR silver][B]  FIXING LUKA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<utube>L846dU2mhcI</utube>
+<thumbnail>https://media.themoviedb.org/t/p/original/hPRfIKy7umoC9SNoEHapXFoi4PY.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>De forma sensível e com figuras originais, “Fixing Luka” é um curta-metragem baseado nas experiências pessoais de Jessica Ashman (roteiro, direção e animação), que tem um irmão autista. Aos olhos de uma criança, os hábitos repetitivos ou obsessivos relacionados ao autismo podem passar a ideia de que há algo errado que deve ser consertado. A garotinha Lucy, feita de pano, observa atenta o comportamento obsessivo do irmão, que tem engrenagens metálicas. Ele cola uma série de selos na parede, alinha seus patinhos de borracha e empilha cubos em torres imensas. Lucy acredita que existe um jeito de curar o irmão até que, um dia, ele se desmonta. Sem paciência, ela sai correndo pela floresta, até encontrar um soldadinho de dar corda que a fará acreditar ter encontrado a cura para o irmão.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] O MILAGRE DE TYSON [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:db46a5e85e8d7d91151f510961beb63def334e74</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/1RPTzQiQ3JiRlG7uPMdiPEWbo5B.jpg</thumbnail>
