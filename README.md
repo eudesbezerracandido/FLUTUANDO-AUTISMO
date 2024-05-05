@@ -147,7 +147,7 @@ Na sua jornada, ele inspira optimismo e alegria no coração das pessoas que enc
 </item> 
 
 <item>
-<title>[COLOR silver][B] UM GAROTO CHAMADO PO -BASEADO NO TEA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<title>[COLOR silver][B] UM GAROTO CHAMADO PO ( LEGENDADO ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <utube>kUSfe7ifTHk</utube>
 <thumbnail>https://www.themoviedb.org/t/p/original/ticaJamKmSTf1roAD1IFznVJRa6.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
